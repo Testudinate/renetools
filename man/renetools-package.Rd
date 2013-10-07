@@ -18,7 +18,7 @@ sourced out to an extra package later.
 \tabular{ll}{
 Package: \tab renetools\cr
 Type: \tab Package\cr
-Version: \tab 1.34\cr
+Version: \tab 1.34.1\cr
 Date: \tab 2012-06-04\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
@@ -27,7 +27,7 @@ LazyLoad: \tab yes\cr
 %~~ important functions ~~
 }
 \author{
-Maintainer: René Sachse <littlegoosie@googlemail.com>
+Maintainer: Rene Sachse <rene.sachse@uni-potsdam.de>
 }
 %\references{
 %~~ Literature or other references for background information ~~
