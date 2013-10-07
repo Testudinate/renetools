@@ -2,7 +2,8 @@ renetools
 =========
 
 R package providing a couple of useful functions for statistics. plotting and data manipulation. 
-Development of this package has been terminated!
+Development of this package has been terminated! So this serves for long-term conservation and 
+keeping old scripts running.
 
 Install the package
 -----------------------------------------------------------------------------
