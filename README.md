@@ -26,6 +26,6 @@ Documentation
 Documentation is not complete and rudimentary but you can get a documentation 
 for some functions by typing into the R command line:
 	
-  library(renetools)
+	library(renetools)
 	?renetools
 
