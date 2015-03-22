@@ -4,7 +4,7 @@ Title: Lots of tools for data manipulation, statistics and plotting
 Version: 1.34.1
 Date: 2012-06-04
 Author: Rene Sachse
-Depends: reshape, RODBC, zyp, xtable, lattice
+Depends: reshape, zyp, xtable, lattice
 Maintainer: Rene Sachse <rene.sachse@uni-potsdam.de>
 Description: Tools for manipulation of data.frames, algorithms to read output of specific scientific devices at TU Dresden, functions to ease several types of plots
 License: GPL
