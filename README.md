@@ -16,7 +16,7 @@ installed, type into the R command line:
 Afterwards you can install renetools by typing:
 
 	library(devtools)
-	install_github("renetools", username="rsachse")
+	install_github("rsachse/renetools")
 	
 You also can download the source package or precompiled Windows binary packages 
 from the [github releases page](https://github.com/rsachse/renetools/releases).
